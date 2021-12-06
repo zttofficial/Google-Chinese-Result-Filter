@@ -1183,3 +1183,6 @@
 *://www.bjsubway.com/*
 *://m.afa4.com/*
 *://www.yuzhuo.com/*
+*://magicalcn.com/*
+*://jouhom.com/*
+*://www.oudebaosw.com/*
