@@ -1215,3 +1215,12 @@
 *://fuwu.hnjtzy.com.cn/*
 *://jms2006.com/*
 *://www.hnwbgs.com/*
+*://www.sirenji.com/*
+*://digimebay.co.id/*
+*://students.moe.gov.bn/*
+*://eted.gov.do/*
+*://www.sucels.cn/*
+*://www.jafjsh.com/*
+*://www.zhonglianip.com/*
+*://benchoutreach.com/*
+*://siemprevirtual.com/*
