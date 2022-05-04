@@ -1243,3 +1243,6 @@
 *://www.hezhisw.com/*
 *://www.diklearn.com/*
 *://www.sssdb.com/*
+*://intro.lovelyplatform.fr/*
+*://www.qirongdianzikeji.com/*
+*://www.pianshen.com/*
